@@ -35,4 +35,3 @@ D:\C\ws-vs2022\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 D:\C\ws-vs2022\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 D:\C\ws-vs2022\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 D:\C\ws-vs2022\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\contato\Index.cshtml.g.cs
-D:\C\ws-vs2022\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
